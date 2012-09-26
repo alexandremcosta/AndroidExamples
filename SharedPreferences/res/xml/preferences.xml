@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+           
+    <EditTextPreference 
+        android:key="et" 
+        android:title="Texto" 
+        android:summary="Entre com um texto..."/>
+    
+    <CheckBoxPreference 
+        android:key="cb" 
+        android:title="CheckBox" 
+        android:summary="Marque ou desmarque!"/>   
+
+</PreferenceScreen>
