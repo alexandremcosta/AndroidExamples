@@ -1,0 +1,1 @@
+Este é o exemplo de arquivo estático do programa.
