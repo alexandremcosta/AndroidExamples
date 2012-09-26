@@ -23,3 +23,4 @@ project.properties
 TestandoPermissao/
 emulator_sdcard
 HelloAndroidFromLac/
+emulator_sdcard.lock
