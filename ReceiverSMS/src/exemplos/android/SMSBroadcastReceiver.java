@@ -1,4 +1,4 @@
-package br.rio.puc.lac.android.course;
+package exemplos.android;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.telephony.SmsMessage;
 import android.util.Log;
+import android.widget.Toast;
 
 public class SMSBroadcastReceiver extends BroadcastReceiver {
 

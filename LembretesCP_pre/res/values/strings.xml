@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>   
+    <string name="app_name">LembretesCP</string>
+    <string name="no_todos">Não existem lembretes a serem visualizados</string>
+    <string name="menu_insert">Adicionar</string>
+    <string name="menu_delete">Deletar</string>
+    <string name="todo_edit_summary">Resumo</string>
+    <string name="todo_edit_description">Descrição</string>
+    <string name="todo_edit_confirm">Confirmar</string>
+</resources>
